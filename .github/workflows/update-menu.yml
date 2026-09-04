@@ -1,0 +1,42 @@
+name: Update cantine menu
+
+on:
+  schedule:
+    # Lundi et jeudi à 6h UTC (7h/8h heure française) — le site publie
+    # généralement les nouveaux menus en fin de semaine précédente.
+    - cron: "0 6 * * 1,4"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install poppler-utils
+        run: sudo apt-get update && sudo apt-get install -y poppler-utils
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 pillow
+
+      - name: Run extraction
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python scripts/fetch_menu.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "menu-bot"
+          git config user.email "menu-bot@users.noreply.github.com"
+          git add data/menus.json
+          git diff --cached --quiet || git commit -m "Mise à jour menu cantine"
+          git push
