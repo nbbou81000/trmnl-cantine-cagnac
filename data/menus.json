@@ -1,6 +1,125 @@
 {
-  "updated_at": "2026-09-04T12:00:00Z",
+  "updated_at": "2026-09-04T14:04:24.185058Z",
   "weeks": [
+    {
+      "week_number": 36,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-04",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2264121",
+      "days": {
+        "lundi": [
+          {
+            "text": "Concombre - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Salade de pâtes Bio au poulet",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Salade de pâtes Bio au poisson",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Yaourt",
+            "badges": []
+          },
+          {
+            "text": "Fruit de saison",
+            "badges": []
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Carottes râpées - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Parmentier de saucisse",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Parmentier de poisson",
+            "badges": []
+          },
+          {
+            "text": "Mimolette Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Flan au chocolat des Pyrénées",
+            "badges": [
+              "signature"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Tomates - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Dahl de lentilles corail bio",
+            "badges": [
+              "bio",
+              "label"
+            ]
+          },
+          {
+            "text": "Riz Bio Pilaf",
+            "badges": [
+              "bio",
+              "label"
+            ]
+          },
+          {
+            "text": "Gouda Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Prune",
+            "badges": []
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Melon",
+            "badges": []
+          },
+          {
+            "text": "Poisson blanc meunière MSC",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Épinards à la Béchamel",
+            "badges": []
+          },
+          {
+            "text": "Yaourt sucré",
+            "badges": []
+          },
+          {
+            "text": "Cake du chef citron basilic",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
     {
       "week_number": 37,
       "start_date": "2026-09-07",
@@ -8,35 +127,385 @@
       "pdf_url": "https://api.neopse.com/rest/site/files/download/2264122",
       "days": {
         "lundi": [
-          {"text": "Radis rose, beurre", "badges": []},
-          {"text": "Paupiette au veau FR - Sauce à la moutarde à l'ancienne", "badges": ["fr"]},
-          {"text": "/Filet de colin d'Alaska MSC - Sauce à la moutarde à l'ancienne", "badges": ["label"]},
-          {"text": "Mélange de petits pois et carottes", "badges": []},
-          {"text": "Madeleine Vital Ainé", "badges": []},
-          {"text": "Compote fraîche pomme Bio pêche", "badges": ["bio", "signature"]}
+          {
+            "text": "Radis rose, beurre",
+            "badges": []
+          },
+          {
+            "text": "Paupiette au veau FR - Sauce à la moutarde à l'ancienne",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "/Filet de colin d'Alaska MSC - Sauce à la moutarde à l'ancienne",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Mélange de petits pois et carottes",
+            "badges": []
+          },
+          {
+            "text": "Madeleine Vital Ainé",
+            "badges": []
+          },
+          {
+            "text": "Compote fraîche pomme Bio pêche",
+            "badges": [
+              "bio",
+              "signature"
+            ]
+          }
         ],
         "mardi": [
-          {"text": "Salade de pommes de terre, tomates et maïs - Vinaigrette", "badges": []},
-          {"text": "Omelette du chef au fromage", "badges": ["label", "signature"]},
-          {"text": "Haricots verts Bio persillés", "badges": ["bio", "fr"]},
-          {"text": "Saint Nectaire AOP", "badges": ["label"]},
-          {"text": "Liégeois vanille", "badges": []}
+          {
+            "text": "Salade de pommes de terre, tomates et maïs - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Omelette du chef au fromage",
+            "badges": [
+              "label",
+              "signature"
+            ]
+          },
+          {
+            "text": "Haricots verts Bio persillés",
+            "badges": [
+              "bio",
+              "fr"
+            ]
+          },
+          {
+            "text": "Saint Nectaire AOP",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Liégeois vanille",
+            "badges": []
+          }
         ],
         "mercredi": [],
         "jeudi": [
-          {"text": "Concombre - Vinaigrette", "badges": []},
-          {"text": "Pulled pork", "badges": []},
-          {"text": "/Effiloché de poisson", "badges": ["bio"]},
-          {"text": "Purée de pommes de terre", "badges": ["fr"]},
-          {"text": "Edam Bio", "badges": ["bio"]},
-          {"text": "Raisin blanc", "badges": []}
+          {
+            "text": "Concombre - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Pulled pork",
+            "badges": []
+          },
+          {
+            "text": "/Effiloché de poisson",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Purée de pommes de terre",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Edam Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Raisin blanc",
+            "badges": []
+          }
         ],
         "vendredi": [
-          {"text": "Tomates - Vinaigrette", "badges": []},
-          {"text": "Curry de poisson", "badges": []},
-          {"text": "Semoule Bio", "badges": ["bio", "fr"]},
-          {"text": "Sauce caramel", "badges": []},
-          {"text": "Crème aux œufs du chef", "badges": ["signature"]}
+          {
+            "text": "Tomates - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Curry de poisson",
+            "badges": []
+          },
+          {
+            "text": "Semoule Bio",
+            "badges": [
+              "bio",
+              "fr"
+            ]
+          },
+          {
+            "text": "Sauce caramel",
+            "badges": []
+          },
+          {
+            "text": "Crème aux œufs du chef",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 38,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-18",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2264123",
+      "days": {
+        "lundi": [
+          {
+            "text": "Melon",
+            "badges": []
+          },
+          {
+            "text": "Boulettes au boeuf - Sauce tomate",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Morceaux de colin d'Alaska MSC - Sauce tomate",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Fusilli Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Emmental Bio râpé",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Yaourt à la fraise de la ferme de Cazaubon",
+            "badges": [
+              "fr"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Taboulé (semoule Bio)",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Estival",
+            "badges": [
+              "signature"
+            ]
+          },
+          {
+            "text": "Rôti de dinde",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Omelette nature",
+            "badges": []
+          },
+          {
+            "text": "Jardinière de légumes",
+            "badges": []
+          },
+          {
+            "text": "Camembert Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Poire bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Carottes râpées - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Lasagnes de légumes",
+            "badges": []
+          },
+          {
+            "text": "Gouda Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Banane Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Tzatziki - Vinaigrette au fromage blanc",
+            "badges": []
+          },
+          {
+            "text": "Filet de limande MSC - Sauce au thym",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Pommes de terre cubes rissolées",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Chantilly",
+            "badges": []
+          },
+          {
+            "text": "Gâteau du chef au chocolat",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 39,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-25",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2264120",
+      "days": {
+        "lundi": [
+          {
+            "text": "Bettraves Bio - Vinaigrette",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Jambon blanc issu de porc Label Rouge",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Omelette nature",
+            "badges": []
+          },
+          {
+            "text": "Coquillettes Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Boudoirs Vital Aîné",
+            "badges": []
+          },
+          {
+            "text": "Compote fraîche pomme Bio poire",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Tomates - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Filet de Poisson pané MSC",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Purée de brocolis",
+            "badges": []
+          },
+          {
+            "text": "Mimolette Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Raisin blanc",
+            "badges": []
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Salade iceberg - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Émincé de filet de poulet rôti",
+            "badges": []
+          },
+          {
+            "text": "Nuggets végétarien de blé",
+            "badges": []
+          },
+          {
+            "text": "Gratin dauphinois, dés d'emmental",
+            "badges": []
+          },
+          {
+            "text": "Gâteau invisible du chef aux pommes",
+            "badges": [
+              "signature"
+            ]
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Macédoine de légumes - Sauce mayonnaise",
+            "badges": []
+          },
+          {
+            "text": "Méli-mélo gourmand courgettes et lentilles corail Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Semoule Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Yaourt sucré ferme du Prouzic",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Banane Bio",
+            "badges": [
+              "bio"
+            ]
+          }
         ]
       }
     }
