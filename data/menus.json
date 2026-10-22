@@ -1,57 +1,459 @@
 {
-  "updated_at": "2026-10-15T10:27:29.979481Z",
+  "updated_at": "2026-10-22T10:45:36.432565Z",
   "weeks": [
     {
-      "week_number": 42,
-      "start_date": "2026-10-12",
-      "end_date": "2026-10-16",
-      "pdf_url": "https://api.neopse.com/rest/site/files/download/2280102",
+      "week_number": 45,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-06",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2305510",
       "days": {
         "lundi": [
           {
-            "text": "Pomelos - , sucre",
-            "badges": []
-          },
-          {
-            "text": "Cassoulet à la saucisse de Serreault",
-            "badges": [
-              "label"
-            ]
-          },
-          {
-            "text": "Omelette nature",
-            "badges": []
-          },
-          {
-            "text": "Haricots blancs à la tomate",
-            "badges": []
-          },
-          {
-            "text": "Camembert Bio",
+            "text": "Betteraves Bio - Vinaigrette",
             "badges": [
               "bio"
             ]
           },
           {
-            "text": "Yaourt aromatisé",
-            "badges": []
+            "text": "Bolognaise de lentilles vertes bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Fusilli Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Emmental Bio râpé",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Compote fraîche pomme Bio à la crème de marrons",
+            "badges": [
+              "bio"
+            ]
           }
         ],
         "mardi": [
           {
-            "text": "Salade de pois chiche HVE aux carottes - Vinaigrette",
+            "text": "Salade de pommes de terre, maïs et cornichons - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Émincé de cuisse de poulet",
             "badges": [
               "fr"
             ]
           },
           {
-            "text": "Tortillas de pommes de terre et emmental Bio",
+            "text": "Galette de blé, fromage et épinard",
+            "badges": []
+          },
+          {
+            "text": "Jardinière automnale",
+            "badges": []
+          },
+          {
+            "text": "Gouda Bio",
             "badges": [
               "bio"
             ]
           },
           {
+            "text": "Banane Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Salade verte - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Hachis parmentier de boeuf (boeuf Français)",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Parmentier de lentilles vertes Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Camembert Bio",
+            "badges": [
+              "bio",
+              "fr"
+            ]
+          },
+          {
+            "text": "Clémentine",
+            "badges": []
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Haricots verts Bio - Vinaigrette",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Poisson blanc meunière MSC",
+            "badges": []
+          },
+          {
+            "text": "Brocolis béchamel",
+            "badges": []
+          },
+          {
+            "text": "Verre de lait \"La briqe rose\"",
+            "badges": []
+          },
+          {
+            "text": "Gateau du chef au chocolat",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 46,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-13",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2305511",
+      "days": {
+        "lundi": [
+          {
+            "text": "Coleslaw - Sauce façon remoulade",
+            "badges": []
+          },
+          {
+            "text": "Cassoulet",
+            "badges": [
+              "label",
+              "fr"
+            ]
+          },
+          {
+            "text": "Haricots blanc à la tomate",
+            "badges": []
+          },
+          {
+            "text": "Quenelle nature",
+            "badges": []
+          },
+          {
+            "text": "Tomme noire IGP",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Pomme Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Taboulé d'hiver (semoule Bio)",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Cordon bleu de dinde",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Beignet de calamars à la romaine",
+            "badges": []
+          },
+          {
             "text": "Haricots verts Bio persillés",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Galettes Bio au beurre",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Smoothie du Chef pomme Bio poire",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Pâté de campagne issu de porc Label Rouge",
+            "badges": [
+              "label",
+              "fr"
+            ]
+          },
+          {
+            "text": "cornichons",
+            "badges": []
+          },
+          {
+            "text": "Médaillon de surimi",
+            "badges": []
+          },
+          {
+            "text": "mayonnaise",
+            "badges": []
+          },
+          {
+            "text": "Dos de colin d'Alaska MSC",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Crumble Maître d'hôtel",
+            "badges": []
+          },
+          {
+            "text": "Carottes Ce2 persillées",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Biscuit langue de chat",
+            "badges": []
+          },
+          {
+            "text": "Liégeois chocolat",
+            "badges": []
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Macédoine de légumes - Sauce mayonnaise",
+            "badges": []
+          },
+          {
+            "text": "Dahl de lentilles corail Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Riz Bio Pilaf",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Edamam Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Poire",
+            "badges": []
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 47,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-20",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2305512",
+      "days": {
+        "lundi": [
+          {
+            "text": "Pépinettes Bio - Vinaigrette",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Paupiette au veau FR",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Sceau Marengo",
+            "badges": []
+          },
+          {
+            "text": "Filet de limande MSC",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Sceau Marengo",
+            "badges": []
+          },
+          {
+            "text": "Haricots verts Bio persillés",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Emmental Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Compote fraiche pomme Bio ananas",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Carottes râpées - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Omelette du chef au fromage",
+            "badges": [
+              "signature"
+            ]
+          },
+          {
+            "text": "Petits pois CE2",
+            "badges": []
+          },
+          {
+            "text": "Yaourt sucré ferme du Prouzic",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Banane Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Chou fleur CE2",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Pulled pork",
+            "badges": []
+          },
+          {
+            "text": "Effiloché de poisson",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Pommes de terre cubes rissolées",
+            "badges": [
+              "signature"
+            ]
+          },
+          {
+            "text": "Saint Moret Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Clémentine",
+            "badges": []
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Salade verte - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Tajine de poisson",
+            "badges": [
+              "signature"
+            ]
+          },
+          {
+            "text": "Semoule Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Suisse fruité",
+            "badges": [
+              "signature"
+            ]
+          },
+          {
+            "text": "Gâteau du chef au yaourt",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 48,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-27",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2305514",
+      "days": {
+        "lundi": [
+          {
+            "text": "Salade de pommes de terre, maïs et cornichons - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Emincé de filet de poulet rôti",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Nuggets végétarien de blé",
+            "badges": []
+          },
+          {
+            "text": "Gratin de potiron",
             "badges": [
               "bio"
             ]
@@ -63,28 +465,193 @@
             ]
           },
           {
-            "text": "Flan à la vanille",
+            "text": "Orange Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Salade de riz - Vinaigrette",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Parmentier végétal",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Yaourt aromatisé",
             "badges": []
+          },
+          {
+            "text": "Pomme Bio",
+            "badges": [
+              "bio"
+            ]
           }
         ],
         "mercredi": [],
         "jeudi": [
           {
-            "text": "Salade iceberg - Vinaigrette",
-            "badges": []
-          },
-          {
-            "text": "Parmentier au canard",
+            "text": "Betteraves Bio - Vinaigrette",
             "badges": [
-              "signature"
+              "bio",
+              "fr"
             ]
           },
           {
-            "text": "Parmentier de poisson, coulis de fruits rouges",
+            "text": "Jambon blanc issu de porc Label Rouge",
+            "badges": [
+              "label",
+              "fr"
+            ]
+          },
+          {
+            "text": "Omelette nature",
             "badges": []
           },
           {
-            "text": "Charlotte du chef pomme framboise",
+            "text": "Coquillettes Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Emmental Bio râpé",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Yaourt à la fraise au lait de la ferme de Cazaubon",
+            "badges": [
+              "fr"
+            ]
+          }
+        ],
+        "vendredi": [
+          {
+            "text": "Salade Mexicaine (haricots rouges, maïs) - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Filet de Poisson pané MSC",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Épinards à la Béchamel",
+            "badges": []
+          },
+          {
+            "text": "Suisse sucré",
+            "badges": []
+          },
+          {
+            "text": "Cake du chef citron basilic",
+            "badges": [
+              "signature"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "week_number": 49,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-04",
+      "pdf_url": "https://api.neopse.com/rest/site/files/download/2305513",
+      "days": {
+        "lundi": [
+          {
+            "text": "Betteraves Bio - Vinaigrette",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Pastachioches (pois chiches) HVE sauce arrabiata",
+            "badges": []
+          },
+          {
+            "text": "Camembert Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Compote fraîche pomme Bio rhubarbe",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mardi": [
+          {
+            "text": "Taboulé d'hiver (semoule Bio)",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Rôti de dinde CE2",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Omelette nature",
+            "badges": []
+          },
+          {
+            "text": "Chou fleur CE2 - Sauce chasseur",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "Saint Nectaire AOP",
+            "badges": [
+              "label"
+            ]
+          },
+          {
+            "text": "Pomme Bio",
+            "badges": [
+              "bio"
+            ]
+          }
+        ],
+        "mercredi": [],
+        "jeudi": [
+          {
+            "text": "Salade verte - croûtons nature - Vinaigrette",
+            "badges": []
+          },
+          {
+            "text": "Saucisse lentilles vertes Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Quenelle nature - Lentilles vertes Bio",
+            "badges": [
+              "bio"
+            ]
+          },
+          {
+            "text": "Chantilly",
+            "badges": []
+          },
+          {
+            "text": "Gâteau invisible du chef aux pommes",
             "badges": [
               "signature"
             ]
@@ -92,28 +659,40 @@
         ],
         "vendredi": [
           {
-            "text": "Perles de pâtes - Vinaigrette",
+            "text": "Cervelas",
+            "badges": [
+              "fr"
+            ]
+          },
+          {
+            "text": "cornichons",
             "badges": []
           },
           {
-            "text": "Beignet de calamars à la romaine",
+            "text": "Médaillon de surimi - mayonnaise",
+            "badges": []
+          },
+          {
+            "text": "Filet de limande MSC - Sauce thym et citron",
             "badges": [
-              "fr"
+              "label"
             ]
           },
           {
-            "text": "Chou fleur CE2 Béchamel",
-            "badges": [
-              "fr"
-            ]
+            "text": "Pommes de terre vapeur",
+            "badges": []
           },
           {
             "text": "Yaourt Cimelait aromatisé",
-            "badges": []
+            "badges": [
+              "bio"
+            ]
           },
           {
             "text": "Kiwi",
-            "badges": []
+            "badges": [
+              "bio"
+            ]
           }
         ]
       }
